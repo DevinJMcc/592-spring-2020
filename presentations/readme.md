@@ -1,6 +1,14 @@
 ### Deep Learning Frameworks
+- https://link.springer.com/article/10.1007/s10462-018-09679-z
+- https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library
+- https://thegradient.pub/state-of-ml-frameworks-2019-pytorch-dominates-research-tensorflow-dominates-industry/
+- http://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture06.pdf
 
 ### Deep Learning Hardware
+- https://dl.acm.org/doi/10.1145/3154484
+- http://inst.eecs.berkeley.edu/~cs152/sp19/lectures/L20-DSA.pdf
+- https://ieeexplore.ieee.org/document/8662396
+- https://ieeexplore.ieee.org/document/8114708
 
 ### CNN Architectures
 

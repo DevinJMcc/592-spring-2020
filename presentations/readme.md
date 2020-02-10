@@ -11,10 +11,22 @@
 - https://ieeexplore.ieee.org/document/8114708
 
 ### CNN Architectures
+- https://arxiv.org/abs/1605.07678
+- https://arxiv.org/abs/1803.01164
+- https://arxiv.org/abs/1602.07360
 
-### Feature Visualization
+### Visualizing CNNs
+- https://arxiv.org/abs/1311.2901
+- https://arxiv.org/abs/1804.11191
+- https://arxiv.org/abs/1312.6034
+- https://arxiv.org/abs/1701.02362
+- https://arxiv.org/abs/1611.05418
+- https://arxiv.org/abs/1506.06579
+- https://arxiv.org/abs/1412.6856
+- https://arxiv.org/abs/1507.02313
 
 ### Object Detection
+- https://arxiv.org/abs/1807.05511
 
 ### Image Segmentation
 
